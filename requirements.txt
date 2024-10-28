@@ -1,0 +1,8 @@
+tensorflow
+ipykernel
+matplotlib
+pandas
+seaborn
+scikit-learn
+statsmodels
+plotly
